@@ -2,7 +2,7 @@
 
 <p align="right"; display="absoulut"; top="30"; right="30";> <img src="https://komarev.com/ghpvc/?username=seyoung8239&label=Profile%20views&color=0e75b6&style=flat" alt="seyoung8239" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyoung8239&show_icons=true&locale=en" alt="seyoung8239" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyoung8239&show_icons=true&locale=en&theme=discord_old_blurple" alt="seyoung8239" /></p>
 
 - 경북대학교 컴퓨터학부에 재학중인 4학년 학생입니다.
 - 프론트앤드 개발자를 목표로 공부하고 있습니다.
@@ -19,66 +19,3 @@
 <a href="https://velog.io/@seyoung8239" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; width="100" heigth="60"/>
 </a>
-
-<p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-      alt="canvasjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
-      alt="d3js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
