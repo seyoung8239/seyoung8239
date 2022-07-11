@@ -1,4 +1,4 @@
-<p align="right"; display="absoulut"; top="30"; right="30";> <img src="https://komarev.com/ghpvc/?username=seyoung8239&label=Profile%20views&color=0e75b6&style=flat" alt="seyoung8239" /> </p>
+<p style="position=absolute; top=30px; right=30px;"> <img src="https://komarev.com/ghpvc/?username=seyoung8239&label=Profile%20views&color=0e75b6&style=flat" alt="seyoung8239" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyoung8239&show_icons=true&locale=en&theme=discord_old_blurple" alt="seyoung8239" /></p>
 
