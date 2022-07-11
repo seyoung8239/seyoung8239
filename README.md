@@ -1,6 +1,6 @@
 <h1 align="center">Seyoung Park</h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=seyoung8239&label=Profile%20views&color=0e75b6&style=flat" alt="seyoung8239" /> </p>
+<p align="right"; display="absoulut"; top="30"; right="30";> <img src="https://komarev.com/ghpvc/?username=seyoung8239&label=Profile%20views&color=0e75b6&style=flat" alt="seyoung8239" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyoung8239&show_icons=true&locale=en" alt="seyoung8239" /></p>
 
@@ -13,10 +13,12 @@
 - 더 자세한 정보는 아래 Notion 포트폴리오에서 확인해주세요 :)
 
 <a href="https://www.notion.so/8fdd3048ac90498888fb991145035e4a" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; width="100" heigth="60"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; width="100" heigth="60"/>
 </a>
 
-<br/>
+<a href="https://velog.io/@seyoung8239" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; width="100" heigth="60"/>
+</a>
 
 <p align="left">
   <a
