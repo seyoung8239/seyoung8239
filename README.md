@@ -10,6 +10,11 @@
 - Clean Code에 큰 관심을 갖고 있습니다.
 - 현재 부전공으로 인공지능을 공부하고 있습니다.
 - Interactive Web, Animation, Design, UI/UX에 큰 관심을 가지고 있습니다.
+- 더 자세한 정보는 아래 Notion 포트폴리오에서 확인해주세요 :)
+
+<a href="https://www.notion.so/8fdd3048ac90498888fb991145035e4a" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; width="100" heigth="60"/>
+</a>
 
 <p align="left">
   <a
