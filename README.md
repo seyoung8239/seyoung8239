@@ -2,11 +2,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyoung8239&show_icons=true&locale=en&theme=discord_old_blurple" alt="seyoung8239" /></p>
 
-- 경북대학교 컴퓨터학부에 재학중인 4학년 학생입니다.
 - 프론트앤드 개발자를 목표로 공부하고 있습니다.
 - 공식문서나 토론을 통해 깊게 공부하는 것에 흥미를 느낍니다.
 - Clean Code를 작성하기 위해 노력합니다.
-- 현재 부전공으로 인공지능을 공부하고 있습니다.
 - Interactive Web, Animation, Design, UI/UX에 큰 관심을 가지고 있습니다.
 - 더 자세한 정보는 아래 Notion 포트폴리오에서 확인해주세요 :)
 
