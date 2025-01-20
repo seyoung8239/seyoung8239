@@ -2,11 +2,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyoung8239&show_icons=true&locale=en&theme=discord_old_blurple" alt="seyoung8239" /></p>
 
-- 프론트엔드 개발자를 목표로 공부하고 있습니다.
-- 공식문서와 토론을 통해 깊게 공부합니다.
-- Clean Code를 작성하기 위해 노력합니다.
-- 오픈소스 기여에 관심이 있습니다.
-- 더 자세한 정보는 아래 Notion 포트폴리오에서 확인해주세요 :)
+- HR 도메인에서 웹빌더와 디자인 시스템을 개발하고 있습니다.
+- 상황에 맞는 설계와 기술 선택에 큰 노력을 쏟습니다.
+- 동료가 더욱 쉽게 예상할 수 있는 코드를 작성하기 위해 노력합니다.
+- 기획, 디자인 영역까지 확장된 시야에서 문제를 해결하려 노력합니다.
+- 팀의 건강한 개발 문화 형성을 위해 앞장서서 노력합니다.
+- 더 자세한 정보는 아래 Notion 포트폴리오에서 확인해 주세요 :)
 
 <a href="https://www.notion.so/8fdd3048ac90498888fb991145035e4a" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; width="100" heigth="60"/>
