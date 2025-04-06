@@ -9,7 +9,7 @@
 - 팀의 건강한 개발 문화 형성을 위해 앞장서서 노력합니다.
 - 더 자세한 정보는 아래 Notion 포트폴리오에서 확인해 주세요 :)
 
-<a href="https://www.notion.so/8fdd3048ac90498888fb991145035e4a" target="_blank" rel="noreferrer">
+<a href="https://narrow-chip-81c.notion.site/Frontend-Developer-82e8661ba49e4f6fbe90006eb7cb0d1b" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; width="100" heigth="60"/>
 </a>
 
